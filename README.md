@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GuiFilgueira
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning front-end development haha
+- 📫 How to reach me guilherme.filgueira21@gmail.com
